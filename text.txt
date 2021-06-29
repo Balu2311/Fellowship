@@ -6,5 +6,6 @@ Hello Reddy
 how are you
 
 I am Data Scientist
+Primary skill Python
 
 
